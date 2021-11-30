@@ -1,1 +1,0 @@
-# day0-mean-mode-median
